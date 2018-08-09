@@ -1,1 +1,1 @@
-# webhook-reciever
+# webhook-receiver
